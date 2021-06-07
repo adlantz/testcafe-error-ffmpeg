@@ -1,5 +1,5 @@
-const RED_PAGE   = 'http://time.com';
-const GREEN_PAGE = 'http://https://usa.gov/';
+const RED_PAGE   = 'https://nodejs.org/en/';
+const GREEN_PAGE = 'https://github.com/';
 
 fixture `BasicMultiPage2`
     .page(RED_PAGE);

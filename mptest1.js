@@ -1,5 +1,5 @@
 const RED_PAGE   = 'http://google.com';
-const GREEN_PAGE = 'http://https://testcafe.io/';
+const GREEN_PAGE = 'https://testcafe.io/';
 
 fixture `BasicMultiPage1`
     .page(RED_PAGE);
